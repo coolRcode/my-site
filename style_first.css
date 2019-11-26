@@ -1,0 +1,50 @@
+body{
+	text-align: left;
+	background: grey url(bg.jpeg)
+	font: 16px normal sans-serif;
+	color: black;
+}
+
+header{
+	background-color: deepskyblue;
+	color: red;
+	text-align: center;
+}
+
+main{
+
+}
+
+footer{
+	background-color: green;
+	color: white;
+}
+
+.page-title{
+	font-size: 20px;
+	text-align: center;
+}
+
+.canal_1{
+	border:2px double crimson;
+	border-radius: 50%;
+	text-align: left;
+}
+
+.vondel{
+	border:2px double green;
+	border-radius: 50%;
+	text-align: center;
+
+}
+
+.rembrandt{
+	border:2px double orange;
+	border-radius: 50%;
+	text-align: right;
+}
+
+.description{
+	font-style: italic;
+	text-align: center;
+}
