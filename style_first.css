@@ -1,25 +1,25 @@
 body{
 	text-align: left;
-	background: grey url(bg.jpeg)
+	background: grey;
 	font: 16px normal sans-serif;
 	color: black;
 }
 
 header{
-	background-color: deepskyblue;
-	color: red;
+	background-color: black;
+	color: white;
 	text-align: center;
 }
 
 
 footer{
-	background-color: green;
+	background-color: black;
 	color: white;
 }
 
 img{
 	max-width: 200px;
-    height: auto;
+    height: 200px;
 }
 
 .page-title{
