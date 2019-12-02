@@ -23,9 +23,13 @@ footer{
 
 img{
 	max-width: 200px;
-    height: 200px;
-    padding: 15px; /* Расстояние от картинки до рамки */
+    height: 200px; /* Расстояние от картинки до рамки */
 }
+
+nav{
+	display:inline-block;
+}
+
 .page-title{
 	font-size: 20px;
 	text-align: center;
